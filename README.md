@@ -1,14 +1,9 @@
-# OpenToonz
+# notOpenToonz
 
-[日本語](./doc/README_ja.md)
 
-[![](https://ci.appveyor.com/api/projects/status/oa5l5pc964h8fv49/branch/master?svg=true)](https://ci.appveyor.com/project/opentoonz/opentoonz)
-[![](https://travis-ci.org/opentoonz/opentoonz.svg?branch=master)](https://travis-ci.org/opentoonz/opentoonz)
-[![](https://github.com/opentoonz/opentoonz/workflows/Build/badge.svg?branch=master)](https://github.com/opentoonz/opentoonz/actions)
-[![Translation status](https://hosted.weblate.org/widgets/opentoonz/-/svg-badge.svg)](https://hosted.weblate.org/engage/opentoonz/)
-## What is OpenToonz?
+## What is notOpenToonz (nOT)?
 
-OpenToonz is a 2D animation software published by 
+notOpenToonz is 2D animation software and services based on previous work published by 
 [DWANGO](http://dwango.co.jp/english/). It is based on **Toonz Studio
 Ghibli Version**, originally developed in Italy by
 [Digital Video, Inc.](http://www.toonz.com/), and customized by
@@ -20,24 +15,14 @@ Please refer to the OpenToonz site at <https://opentoonz.github.io/e/index.html>
 
 ## Installation
 
-Please download and install OpenToonz from the latest installer at <https://opentoonz.github.io/e/index.html>.
+nOT does not need to be installed although there may be some benefits to doing so.
+For those that wish to install a similar program... recommend installing OpenToonz from the latest installer at <https://opentoonz.github.io/e/index.html>.
 
 Older versions and unstable nightly build are also available at <https://github.com/opentoonz/opentoonz/releases>.
 
-## How to Build Locally
-
-- [Windows](./doc/how_to_build_win.md)
-- [OS X](./doc/how_to_build_macosx.md)
-- [Linux](./doc/how_to_build_linux.md)
-
-For instructions on how to build stylesheets, please [see here](./doc/how_to_stylesheet.md).
-
-Can't develop but still want to help? Help us test individual Pull Requests before they are merged with [these steps](./doc/how_to_test_prs.md).
-
 ## Community
 
-- To share tips or to troubleshoot, join the [Google OpenToonz Users forum](https://groups.google.com/forum/#!forum/opentoonz_en)
-- If you found a bug with the software after troubleshooting, or are a developer, search the [Github issues](https://github.com/opentoonz/opentoonz/issues) and post there.
+- Community is largely Peer to Peer and in real time via Beaker browser, Discord and the nOT application itself which can update largely on the fly.
 
 ## Licensing
 
